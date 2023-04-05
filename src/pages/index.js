@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Layout from '../components/Layout'
 import Hero from '../components/Hero'
 import Technogies from '../components/Technogies'
+import Projects from '../components/Projects'
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
         <Layout>
           <Hero />
           <Technogies />
+          <Projects />
         </Layout>
       </main>
     </>

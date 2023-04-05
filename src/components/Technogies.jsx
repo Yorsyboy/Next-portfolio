@@ -14,7 +14,7 @@ export default function Technogies() {
   return (
     <div className="mt-20">
       <h1
-        className="text-6xl font-bold text-gray-500 my-20 md:my-0 dark:text-white text-center"
+        className="text-2xl md:text-5xl font-bold text-gray-500 my-20 md:my-0 dark:text-white text-center"
         data-aos="slide-up"
       >
         Technologies, I use
