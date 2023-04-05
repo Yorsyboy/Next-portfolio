@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Layout from '../components/Layout'
 import Hero from '../components/Hero'
+import Technogies from '../components/Technogies'
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <main className=''>
         <Layout>
           <Hero />
+          <Technogies />
         </Layout>
       </main>
     </>
