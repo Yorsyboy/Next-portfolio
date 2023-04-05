@@ -1,7 +1,10 @@
 import React from 'react'
+import DarkModeSwitch from './DarkModeSwitch'
 
 export default function Header() {
   return (
-    <div>Header</div>
+    <div>
+      <DarkModeSwitch/>
+    </div>
   )
 }
