@@ -1,8 +1,8 @@
 const userData = {
     githubUsername: "Yorsyboy",
     name: "Toyosi Taiwo",
-    designation: "Frontent/Full-Stack Developer",
-    avatarUrl: "",
+    designation: "Frontend/Full-Stack Developer",
+    avatarUrl: "/avatar.jpg",
     email: "adekunletaiwo43@yahoo.com",
     phone: "+234 8183134563",
     address: "Lagos, Nigeria",
