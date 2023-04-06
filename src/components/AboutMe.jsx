@@ -21,7 +21,7 @@ export default function AboutMe() {
           Who am I ?
         </h1>
 
-        <div className="h-screen relative text-gray-800 dark:text-white">
+        <div className="h-screen relative text-gray-800 dark:text-white -mt-24 md:-mt-0">
           <div className="h-full">
             <lottie-player
               src="https://assets10.lottiefiles.com/packages/lf20_z7eBBeOq5L.json"

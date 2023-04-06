@@ -23,8 +23,50 @@ const userData = {
       `Apart from coding, some other activities that I love to do are playing games, playing football, watching animes and movies`,
     ],
   },
-    resumeUrl:
+  resumeUrl:
     "https://docs.google.com/document/d/1JNTeudeZ_EXPw4Io9DowYAfJo0PtbG31jTyrS6vhfT8/edit?usp=sharing",
+  projects: [
+    {
+      title: "Realtor-Clone",
+      link: "https://realtor-clone-henna.vercel.app/",
+      imgUrl: "/realtor.png",
+    },
+    {
+      title: "Google-clone",
+      link: "https://google-clone-yorsyboy.vercel.app/",
+      imgUrl: "/google.png",
+    },
+    {
+      title: "Space Traveler's Hub",
+      link: "https://space-travel00.netlify.app/",
+      imgUrl: "/space.png",
+    },
+    {
+      title: "Tvshow",
+      link: "https://covidrescue.co.in",
+      imgUrl: "/Tvshow.png",
+    },
+    {
+      title: "Imdb-clone",
+      link: "https://algochurn.com",
+      imgUrl: "/imdb.png",
+    },
+    {
+      title: "Math Magicians",
+      link: "https://play.placeholdertech.in",
+      imgUrl: "/math.png",
+    },
+    {
+      title: "Dashboard",
+      link: "https://feedmeback.vercel.app",
+      imgUrl: "/dashboard.png",
+    },
+    {
+      title: "Catty",
+      link: "https://devmedium.vercel.app",
+      imgUrl: "/cat.png",
+    },
+  ],
 }
 
 export default userData;

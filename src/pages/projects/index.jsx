@@ -1,10 +1,11 @@
-import Layout from '../../components/Layout'
-import React from 'react'
+import Project from "../../components/Project";
+import Layout from "../../components/Layout";
+import React from "react";
 
 export default function index() {
   return (
     <Layout>
-        <h1>Projects</h1>
+      <Project />
     </Layout>
-  )
+  );
 }
