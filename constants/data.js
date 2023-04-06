@@ -7,12 +7,12 @@ const userData = {
     phone: "+234 8183134563",
     address: "Lagos, Nigeria",
     socialLinks: {
-        instagram: "https://instagram.com/maninthere",
-        twitter: "https://twitter.com/mannupaaji",
-        linkedin: "https://linkedin.com/in/manuarora28",
-        github: "https://github.com/manuarora700",
+        instagram: "https://www.instagram.com/yorsyboy/",
+        twitter: "https://twitter.com/Tboytaiwo",
+        linkedin: "https://www.linkedin.com/in/taiwo-toyosi/",
+        github: "https://github.com/Yorsyboy",
         facebook: "https://facebook.com/",
-        peerlist: "https://peerlist.io/manuarora",
+        frontendmentor: "https://www.frontendmentor.io/profile/Yorsyboy",
       },
 }
 

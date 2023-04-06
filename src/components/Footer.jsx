@@ -33,11 +33,10 @@ export default function Footer() {
         <div className="flex flex-col space-y-4 md:space-y-0 md:flex-row justify-between md:items-center mt-8">
           <div>
             <p className="dark:text-white text-gray-100">
-              &copy; Your Name. All Rights Reserved.
+              &copy; Toyosi Taiwo. All Rights Reserved. {new Date().getFullYear()}
             </p>
           </div>
           <div>
-            {/* Support me by keeping this in the footer, please. :) */}
             <div className="dark:text-white text-gray-100">
               Developed by
               <div className="inline-block transform hover:scale-110 hover:-rotate-3 transition duration-300">
