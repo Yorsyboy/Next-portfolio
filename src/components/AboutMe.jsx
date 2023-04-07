@@ -2,17 +2,6 @@ import React from "react";
 import userData from "../../constants/data";
 
 export default function AboutMe() {
-  // Age calculator function
-  function age(birthdate) {
-    const today = new Date();
-    const age =
-      today.getFullYear() -
-      birthdate.getFullYear() -
-      (today.getMonth() < birthdate.getMonth() ||
-        (today.getMonth() === birthdate.getMonth() &&
-          today.getDate() < birthdate.getDate()));
-    return age;
-  }
 
   return (
     <section className="bg-white dark:bg-gray-800">
@@ -38,9 +27,9 @@ export default function AboutMe() {
                 {JSON.stringify(
                   {
                     name: userData.name,
-                    age: age(new Date(1998, 10, 10)),
                     gender: "Male",
                     country: "Nigeria",
+                    motto: 'The game is consistency.'
                   },
                   null,
                   2
