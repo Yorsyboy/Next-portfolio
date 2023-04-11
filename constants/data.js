@@ -67,6 +67,36 @@ const userData = {
       imgUrl: "/cat.png",
     },
   ],
+  experience: [
+    {
+      title: "Mentor (Volunteer)",
+      company: "Microverse",
+      year: "2022",
+      companyLink: "https://microverse.org",
+      desc: "Mentoring junior web developers, and providing technical support through code reviews while Providing advice and tips on maintaining motivation and longevity in the program.",
+    },
+    {
+      title: "Remote Full Stack Web Development Program",
+      company: "Microverse",
+      year: "2022",
+      companyLink: "https://microverse.org",
+      desc: "Developed skills in remote pair programming using GitHub, industry-standard git-flow, and daily standups to communicate and collaborate with international remote developers",
+    },
+    {
+      title: "Software Developer (Contract)",
+      company: "TechSkales Enterprise",
+      year: "2021",
+      companyLink: "https://teckskales.com",
+      desc: "Writing well-designed, testable, and efficient code by using best software development practices.",
+    },
+    {
+      title: "College",
+      company: "National Open University Of Nigeria",
+      year: "2020",
+      course: "Bsc Computer Science",
+      desc: "",
+    },
+  ],
 }
 
 export default userData;
