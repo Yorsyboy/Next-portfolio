@@ -1,6 +1,6 @@
 import React, {useEffect} from "react";
 
-export default function success() {
+export default function Success() {
     useEffect(() => {
         setTimeout(() => {
             window.location.href = "/";

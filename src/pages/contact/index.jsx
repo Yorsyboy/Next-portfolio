@@ -4,7 +4,7 @@ import Layout from "../../components/Layout";
 import userData from "../../../constants/data";
 import { useForm, ValidationError } from "@formspree/react";
 
-export default function index() {
+export default function Index() {
   const router = useRouter();
   const [state, handleSubmit] = useForm("xrgvoype");
   if (state.succeeded) {
@@ -23,10 +23,10 @@ export default function index() {
             <div className="md:ml-4">
               <header className="">
                 <h1 className="text-gray-50 font-semibold text-2xl">
-                  Get in touch, let's talk.
+                  Get in touch, let&apos;s talk.
                 </h1>
                 <p className="font-light text-base text-gray-200 mt-2">
-                  Fill in the details and I'll get back to you as soon as I can.
+                  Fill in the details and I&apos;ll get back to you as soon as I can.
                 </p>
               </header>
               <div className="icons-container inline-flex flex-col my-20">
