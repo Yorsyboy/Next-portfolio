@@ -19,7 +19,7 @@ const userData = {
       "A Software Developer passionate about building web applications with JavaScript, React and Next. I fell in love with programming ever since I have been building projects with the stacks mentioned above. I am currently looking for new opportunities within a technical team.",
     description: [
       `I am a passionate software developer who has a flair for UI design, I recently graduated from Microverse, a remote software development company, where I learnt to pair-program and build projects.`,
-      `I have a a passion for user interactive designs and I have spent the last months completely immersed in remote development, building everything from landing pages to Rails APIs`,
+      `I have a a passion for user interactive designs and I have spent the last months completely immersed in remote development, building everything from landing pages to Fullstack webapps`,
       `Apart from coding, some other activities that I love to do are playing games, playing football, watching animes and movies`,
     ],
   },
